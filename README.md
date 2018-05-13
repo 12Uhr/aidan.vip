@@ -9,8 +9,10 @@ Don't take credit for what isn't yours.
 
 ### To fix errors
 #### Windows beep on hitsound:
-http://b.reich.io/gjgtnx.wav
-Download that, rename it to bame.wav and put it into your sounds folder in the csgo folder. 
+http://b.reich.io/gjgtnx.wav \n
+Download that, rename it to bame.wav and put it into your sounds folder in the csgo folder. \n
+http://b.reich.io/ovvtxb.wav \n
+Download that, rename it to quake.wav and do the same as before. \n
 
 #### Loads and loads of errors to do with google/protobuf
 :<
