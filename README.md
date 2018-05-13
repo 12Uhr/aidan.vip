@@ -19,7 +19,7 @@ Download that, rename it to bame.wav and put it into your sounds folder in the c
 
 :<
 
-### Configs not working
+#### Configs not working
 
 Make a new directory in C:/ to look like this:
 
