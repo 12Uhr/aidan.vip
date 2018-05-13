@@ -17,4 +17,10 @@ Download that, rename it to bame.wav and put it into your sounds folder in the c
 
 #### Loads and loads of errors to do with google/protobuf
 
-Include protobuf
+:<
+
+### Configs not working
+
+Make a new directory in C:/ to look like this:
+
+C:/AidanVIP/Configs (they will save to here)
