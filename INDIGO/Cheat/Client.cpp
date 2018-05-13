@@ -458,7 +458,7 @@ namespace Client
 						{
 							"Off",
 							"Default",
-							"Anime",
+							"Quake",
 							"Bameware",
 							"Gamesense",
 						};

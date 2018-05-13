@@ -274,7 +274,7 @@ void CEsp::HitmarkerEvents(IGameEvent* event)
 			{
 				case 0: break;
 				case 1: PlaySoundA(rawData, NULL, SND_ASYNC | SND_MEMORY); break;
-				case 2: PlaySoundA(pew, NULL, SND_ASYNC | SND_MEMORY); break;
+				case 2: PlaySoundA(TEXT("csgo\\sound\\quake.wav"), NULL, SND_FILENAME | SND_ASYNC); break;
 				case 3: PlaySoundA(TEXT("csgo\\sound\\bame.wav"), NULL, SND_FILENAME | SND_ASYNC); break;
 				case 4: Interfaces::Engine()->ClientCmd_Unrestricted2("play buttons\\arena_switch_press_02.wav");
 			}
